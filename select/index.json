@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "涙の正体",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2025-12-14T16:17:59.230411Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "涙の正体",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/01_涙の正体_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "涙の正体",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_涙の正体_SUPER_BEAVER.txt"
+    }
+  ]
+}
